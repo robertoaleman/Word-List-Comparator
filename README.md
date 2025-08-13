@@ -41,4 +41,5 @@ Simply upload the `index.php` and `ListComparator.php` files to the same folder 
 
 ## 📄 License
 
-This project is released under the GNU AFFERO GENERAL PUBLIC LICENSE. You are free to use, modify, and distribute it for any purpose.
+
+This project is released under the GNU AFFERO GENERAL PUBLIC LICENSE. 
